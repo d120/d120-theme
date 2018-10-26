@@ -1,0 +1,93 @@
+.tud-theme-defs {
+  --tud-color-1a:  #5d85c3; --tud-color-1b:  #005aa9; --tud-color-1c:  #004e8a; --tud-color-1d:  #243572;
+  --tud-color-2a:  #009cda; --tud-color-2b:  #0083cc; --tud-color-2c:  #00689d; --tud-color-2d:  #004e73;
+  --tud-color-3a:  #50b695; --tud-color-3b:  #009d81; --tud-color-3c:  #008877; --tud-color-3d:  #00715e;
+  --tud-color-4a:  #afcc50; --tud-color-4b:  #99c000; --tud-color-4c:  #7fab16; --tud-color-4d:  #6a8b22;
+  --tud-color-5a:  #dddf48; --tud-color-5b:  #c9d400; --tud-color-5c:  #b1bd00; --tud-color-5d:  #99a604;
+  --tud-color-6a:  #ffe05c; --tud-color-6b:  #fdca00; --tud-color-6c:  #d7ac00; --tud-color-6d:  #ae8e00;
+  --tud-color-7a:  #f8ba3c; --tud-color-7b:  #f5a300; --tud-color-7c:  #d28700; --tud-color-7d:  #be6f00;
+  --tud-color-8a:  #ee7a34; --tud-color-8b:  #ec6500; --tud-color-8c:  #cc4c03; --tud-color-8d:  #a94913;
+  --tud-color-9a:  #e9503e; --tud-color-9b:  #e6001a; --tud-color-9c:  #b90f22; --tud-color-9d:  #961c26;
+  --tud-color-10a: #c9308e; --tud-color-10b: #a60084; --tud-color-10c: #951169; --tud-color-10d: #732054;
+  --tud-color-11a: #804597; --tud-color-11b: #721085; --tud-color-11c: #611c73; --tud-color-11d: #4c226a;
+}
+
+.tud-theme-1a { --theme-color: var(--tud-color-1a); }
+.tud-theme-1b { --theme-color: var(--tud-color-1b); }
+.tud-theme-1c { --theme-color: var(--tud-color-1c); }
+.tud-theme-1d { --theme-color: var(--tud-color-1d); }
+
+.tud-theme-2a { --theme-color: var(--tud-color-2a); }
+.tud-theme-2b { --theme-color: var(--tud-color-2b); }
+.tud-theme-2c { --theme-color: var(--tud-color-2c); }
+.tud-theme-2d { --theme-color: var(--tud-color-2d); }
+
+.tud-theme-3a { --theme-color: var(--tud-color-3a); }
+.tud-theme-3b { --theme-color: var(--tud-color-3b); }
+.tud-theme-3c { --theme-color: var(--tud-color-3c); }
+.tud-theme-3d { --theme-color: var(--tud-color-3d); }
+
+.tud-theme-4a { --theme-color: var(--tud-color-4a); }
+.tud-theme-4b { --theme-color: var(--tud-color-4b); }
+.tud-theme-4c { --theme-color: var(--tud-color-4c); }
+.tud-theme-4d { --theme-color: var(--tud-color-4d); }
+
+.tud-theme-5a { --theme-color: var(--tud-color-5a); }
+.tud-theme-5b { --theme-color: var(--tud-color-5b); }
+.tud-theme-5c { --theme-color: var(--tud-color-5c); }
+.tud-theme-5d { --theme-color: var(--tud-color-5d); }
+
+.tud-theme-6a { --theme-color: var(--tud-color-6a); }
+.tud-theme-6b { --theme-color: var(--tud-color-6b); }
+.tud-theme-6c { --theme-color: var(--tud-color-6c); }
+.tud-theme-6d { --theme-color: var(--tud-color-6d); }
+
+.tud-theme-7a { --theme-color: var(--tud-color-7a); }
+.tud-theme-7b { --theme-color: var(--tud-color-7b); }
+.tud-theme-7c { --theme-color: var(--tud-color-7c); }
+.tud-theme-7d { --theme-color: var(--tud-color-7d); }
+
+.tud-theme-8a { --theme-color: var(--tud-color-8a); }
+.tud-theme-8b { --theme-color: var(--tud-color-8b); }
+.tud-theme-8c { --theme-color: var(--tud-color-8c); }
+.tud-theme-8d { --theme-color: var(--tud-color-8d); }
+
+.tud-theme-9a { --theme-color: var(--tud-color-9a); }
+.tud-theme-9b { --theme-color: var(--tud-color-9b); }
+.tud-theme-9c { --theme-color: var(--tud-color-9c); }
+.tud-theme-9d { --theme-color: var(--tud-color-9d); }
+
+.tud-theme-10a { --theme-color: var(--tud-color-1)0a; }
+.tud-theme-10b { --theme-color: var(--tud-color-1)0b; }
+.tud-theme-10c { --theme-color: var(--tud-color-1)0c; }
+.tud-theme-10d { --theme-color: var(--tud-color-1)0d; }
+
+.tud-theme-11a { --theme-color: var(--tud-color-11a); }
+.tud-theme-11b { --theme-color: var(--tud-color-11b); }
+.tud-theme-11c { --theme-color: var(--tud-color-11c); }
+.tud-theme-11d { --theme-color: var(--tud-color-11d); }
+
+.tud-theme-1a,  .tud-theme-2a, .tud-theme-3a, .tud-theme-4a, .tud-theme-5a,
+.tud-theme-6a,  .tud-theme-7a, .tud-theme-8a, .tud-theme-9a, .tud-theme-10a,
+.tud-theme-11a, .tud-theme-5b, .tud-theme-6b, .tud-theme-7b, .tud-theme-8b,
+.tud-theme-9b,  .tud-theme-4c, .tud-theme-5c, .tud-theme-6c, .tud-theme-7c,
+.tud-theme-8c {
+  --theme-contrast: #000;
+}
+
+.tud-theme-1b,  .tud-theme-2b,  .tud-theme-3b, .tud-theme-4b, .tud-theme-10b,
+.tud-theme-11b, .tud-theme-1c,  .tud-theme-2c, .tud-theme-3c, .tud-theme-9c,
+.tud-theme-10c, .tud-theme-11c, .tud-theme-1d, .tud-theme-2d, .tud-theme-3d,
+.tud-theme-4d,  .tud-theme-5d,  .tud-theme-6d, .tud-theme-7d, .tud-theme-8d,
+.tud-theme-9d,  .tud-theme-10d, .tud-theme-11d  {
+  --theme-contrast: #fff;
+}
+
+.tud-theme-filled {
+  color: var(--theme-contrast);
+  background-color: var(--theme-color);
+}
+
+.tud-theme-colored {
+  color: var(--theme-color);
+}
