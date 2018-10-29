@@ -26,7 +26,7 @@ footer i {
 footer .row {
     padding: 10px 0;
 }
-.right {
+/*.right {
     float: right;
     margin-top: 25px;
     margin-bottom: 25px;
@@ -37,7 +37,7 @@ footer .row {
     margin-top: 25px;
     margin-bottom: 25px;
     margin-right: 25px;
-}
+}*/
 #header img {
     height: 100px;
     margin-top: 25px;
