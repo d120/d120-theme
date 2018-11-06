@@ -97,10 +97,10 @@ footer .row {
     margin: 0;
 }
 .sidebar-nav > li > a {
-    padding: 10px 15px 10px 0;
+    padding: 10px 15px 10px 20px;
 }
 .sidebar-nav > li {
-    padding-left: 20px;
+    padding-left: 0;
     margin-left: -5px;
 }
 li.sidebar-active {
@@ -149,8 +149,10 @@ li.sidebar-active {
 }
 .sidebar-nav > li:hover {
     border-left: 5px solid #999999;
-    padding-left: 15px;
     background-color: #eee;
+}
+.sidebar-nav > li:hover > a {
+    padding-left: 15px;
 }
 li.headline:hover {
     background-color: transparent;
